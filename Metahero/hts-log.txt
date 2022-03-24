@@ -1,0 +1,148 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 20 Jan 2022 17:50:31 at https://metahero.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://metahero.io/ -O1 "D:\Learning and lifestyle\Start ups and ideas\Nevera stranica\Metahero" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:54:21	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://metahero.io/)
+17:54:21	Error: 	"Not Found" (404) at link https://metahero.io/“https://www.googletagmanager.com/ns.html?id=GTM-5BHMZ2C%e2%80%9d (from https://metahero.io/)
+17:54:45	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/08/268-trailer-thumbnail.webp?v=1-0
+17:54:56	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/05/275-Group 423 (1).webp?v=1-0
+17:54:56	Error: 	"Not Found" (404) at link https://metahero.io/es/token (from https://metahero.io/token)
+17:54:56	Error: 	"Not Found" (404) at link https://metahero.io/pt/token (from https://metahero.io/token)
+17:54:56	Error: 	"Not Found" (404) at link https://metahero.io/kr/token (from https://metahero.io/token)
+17:54:56	Error: 	"Not Found" (404) at link https://metahero.io/ja/token (from https://metahero.io/token)
+17:54:56	Error: 	"Not Found" (404) at link https://metahero.io/zh/token (from https://metahero.io/token)
+17:54:57	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/05/325-2021-12-19 17.53.04.webp?v=1-0
+17:54:57	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/01/21-Lopez.webp?v=1-0
+17:54:57	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/08/318-metahero welcomes.webp?v=1-0
+17:54:57	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/05/25-Alex.webp?v=1-0
+17:54:57	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/02/22-Marcin Grajcar.webp?v=1-0
+17:54:57	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/03/23-Mat.webp?v=1-0
+17:54:57	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/03/33-Twardosz.webp?v=1-0
+17:54:57	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/07/17-Fernando.webp?v=1-0
+17:54:57	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/09/29-Rafal.webp?v=1-0
+17:54:57	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/06/16-Aleksander Sadecki.webp?v=1-0
+17:54:57	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/09/19-Kamil Klandyk.webp?v=1-0
+17:54:57	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/05/15-JAN.webp?v=1-0
+17:54:57	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/08/28-Przemek.webp?v=1-0
+17:54:57	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/01/31-Serafin.webp?v=1-0
+17:54:57	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/06/26-Popek.webp?v=1-0
+17:54:57	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/02/112-2021-08-01 19.13.48.webp?v=1-0
+17:54:57	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/06/296-WDW_Piotr.webp?v=1-0
+17:54:57	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/05/295-WDW_Konrad.webp?v=1-0
+17:54:57	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/05/35-wolf_studio_logo_biale.webp?v=1-0
+17:54:57	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/07/37-tenset30px.webp?v=1-0
+17:54:57	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/08/38-Jonasz.webp?v=1-0
+17:54:57	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/07/27-healy.webp?v=1-0
+17:55:05	Error: 	"Not Found" (404) at link https://metahero.io/1318.323 (from https://metahero.io/animation-no-background.svg)
+17:55:05	Error: 	"Not Found" (404) at link https://metahero.io/1909.323 (from https://metahero.io/animation-no-background.svg)
+17:55:05	Error: 	"Not Found" (404) at link https://metahero.io/es/“https://www.googletagmanager.com/ns.html?id=GTM-5BHMZ2C%e2%80%9d (from https://metahero.io/es/tech)
+17:55:05	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/03/13-Rob.webp?v=5-0
+17:55:05	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/sulu-260x/04/294-WDW_avatar.webp?v=2-0
+17:55:05	Error: 	"Not Found" (404) at link https://metahero.io/pt/“https://www.googletagmanager.com/ns.html?id=GTM-5BHMZ2C%e2%80%9d (from https://metahero.io/pt/tech)
+17:55:05	Error: 	"Not Found" (404) at link https://metahero.io/kr/“https://www.googletagmanager.com/ns.html?id=GTM-5BHMZ2C%e2%80%9d (from https://metahero.io/kr/tech)
+17:55:05	Error: 	"Not Found" (404) at link https://metahero.io/ja/“https://www.googletagmanager.com/ns.html?id=GTM-5BHMZ2C%e2%80%9d (from https://metahero.io/ja/tech)
+17:55:05	Error: 	"Not Found" (404) at link https://metahero.io/zh/“https://www.googletagmanager.com/ns.html?id=GTM-5BHMZ2C%e2%80%9d (from https://metahero.io/zh/tech)
+17:55:08	Error: 	"Not Found" (404) at link https://metahero.io/news/“https://www.googletagmanager.com/ns.html?id=GTM-5BHMZ2C%e2%80%9d (from https://metahero.io/news/everdome-pre-sale-explained)
+17:55:08	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/05/335-photo1642609103.webp?v=1-0
+17:55:08	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/01/331-photo1641811057.webp?v=1-0
+17:55:08	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/00/330-photo1641044131.webp?v=1-0
+17:55:08	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/07/327-mcex global v4.webp?v=1-0
+17:55:08	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/06/326-photo1640270832 (2).webp?v=1-0
+17:55:08	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/04/324-photo1639759129.webp?v=1-0
+17:55:08	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/03/323-FGpzF-kWUAM5B5p.webp?v=1-0
+17:55:08	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/00/320-photo1639506694.webp?v=1-0
+17:55:08	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/09/319-photo1638905497.webp?v=1-0
+17:55:09	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/06/316-photo1638767049 (1).webp?v=1-0
+17:55:12	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/00/80-photo1626335997.webp?v=1-0
+17:55:12	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/05/75-photo1626241444.webp?v=1-0
+17:55:12	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/07/77-photo1626254980.webp?v=1-0
+17:55:12	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/08/78-photo1625397232.webp?v=1-0
+17:55:12	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/06/76-photo1626250691.webp?v=1-0
+17:55:14	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/08/338-photo1642507020.webp?v=1-0
+17:55:14	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/06/336-photo1642506967.webp?v=1-0
+17:55:17	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/03/333-photo1642418341.webp?v=1-0
+17:55:17	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/00/310-photo1638712025.webp?v=1-0
+17:55:17	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/02/312-photo1638690820.webp?v=1-0
+17:55:17	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/09/309-photo1638638908.webp?v=1-0
+17:55:17	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/08/308-photo1638539642.webp?v=1-0
+17:55:17	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/07/307-photo1638455970.webp?v=1-0
+17:55:17	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/06/306-photo1638380691.webp?v=1-0
+17:55:20	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/05/85-photo1626593537.webp?v=1-0
+17:55:20	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/04/84-photo1626440752 (1).webp?v=1-0
+17:55:20	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/02/82-photo1626378389.webp?v=1-0
+17:55:20	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/01/81-photo1626359842.webp?v=1-0
+17:55:26	Error: 	"Not Found" (404) at link https://metahero.io/news/metahero.io/news/nov-recap (from https://metahero.io/news/nov-recap)
+17:55:26	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/00/300-photo1638020585.webp?v=1-0
+17:55:26	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/09/299-photo1637930691.webp?v=1-0
+17:55:26	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/08/298-Screen Shot 2021-11-26 at 7.20.50 PM.webp?v=1-0
+17:55:26	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/02/262-photo1637417878.webp?v=1-0
+17:55:29	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/01/101-photo1627046216.webp?v=1-0
+17:55:29	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/00/100-photo1626974430.webp?v=1-0
+17:55:29	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/09/99-photo1626929252.webp?v=1-0
+17:55:29	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/06/96-Screen Shot 2021-07-21 at 2.17.17 PM.webp?v=1-0
+17:55:29	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/03/93-photo1626767132.webp?v=1-0
+17:55:29	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/02/92-photo1626670595.webp?v=1-0
+17:55:35	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/01/261-photo1636731535.webp?v=1-0
+17:55:35	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/00/260-photo1636560436.webp?v=1-0
+17:55:35	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/03/213-photo1635417099.webp?v=1-0
+17:55:35	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/02/212-photo1635337364.webp?v=1-0
+17:55:35	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/01/211-DSC00786.webp?v=1-0
+17:55:58	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/09/259-photo1635874597.webp?v=1-0
+17:56:02	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/03/113-photo1627887503.webp?v=1-0
+17:56:02	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/01/111-Screen Shot 2021-08-01 at 3.03.36 PM.webp?v=1-0
+17:56:02	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/00/110-photo1627668446 (1).webp?v=1-0
+17:56:02	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/08/108-photo1627546417.webp?v=1-0
+17:56:02	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/06/106-photo1627493327.webp?v=1-0
+17:56:02	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/05/105-photo1627301388.webp?v=1-0
+17:56:08	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/02/202-photo1634582593.webp?v=1-0
+17:56:08	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/01/201-photo1634487825.webp?v=1-0
+17:56:08	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/00/200-photo1634395740 (1).webp?v=1-0
+17:56:08	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/07/197-photo1634048850.webp?v=1-0
+17:56:08	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/06/196-photo1634037130.webp?v=1-0
+17:56:08	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/05/195-photo1633979203.webp?v=1-0
+17:56:18	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/04/194-photo1633505244.webp?v=1-0
+17:56:18	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/03/193-Screen Shot 2021-10-04 at 10.22.20 AM.webp?v=1-0
+17:56:18	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/02/192-photo1633025888.webp?v=1-0
+17:56:18	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/01/191-photo1632944849.webp?v=1-0
+17:56:18	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/00/190-photo1632908687.webp?v=1-0
+17:56:18	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/09/189-696d3b23-557a-4291-ad9c-1446486bd7ae.webp?v=1-0
+17:56:20	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/04/114-photo1627760606.webp?v=1-0
+17:56:20	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/01/131-photo1629110036.webp?v=1-0
+17:56:20	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/00/130-6c47c574-b6b6-4f5c-a670-919b55e11bfa.webp?v=1-0
+17:56:20	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/09/129-photo1628878393.webp?v=1-0
+17:56:20	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/08/128-hqdefault-1.webp?v=1-0
+17:56:20	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/06/126-photo1628433427.webp?v=1-0
+17:56:20	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/05/125-photo1628428241.webp?v=1-0
+17:56:25	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/08/188-photo1632835603.webp?v=1-0
+17:56:25	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/07/187-photo1632558831.webp?v=1-0
+17:56:25	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/06/186-photo1632589196.webp?v=1-0
+17:56:25	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/05/185-photo1632551753.webp?v=1-0
+17:56:34	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/09/179-photo1632296516.webp?v=1-0
+17:56:34	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/08/178-photo1632297936.webp?v=1-0
+17:56:34	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/06/176-photo1632210865.webp?v=1-0
+17:56:34	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/05/175-photo1632072806.webp?v=1-0
+17:56:34	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/03/173-photo1632072805.webp?v=1-0
+17:56:34	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/01/171-photo1632030339.webp?v=1-0
+17:56:37	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/09/159-JRNY.webp?v=1-0
+17:56:37	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/08/158-photo1630856054.webp?v=1-0
+17:56:37	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/07/157-photo1628069562.webp?v=1-0
+17:56:37	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/06/156-photo1630668629.webp?v=1-0
+17:56:38	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/05/155-photo1630654658.webp?v=1-0
+17:56:38	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/00/140-photo1630391831.webp?v=1-0
+17:56:43	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/00/170-photo1631902163 (1).webp?v=1-0
+17:56:43	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/02/172-photo1632043807 (1).webp?v=1-0
+17:56:43	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/08/168-photo1631780007.webp?v=1-0
+17:56:43	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/07/167-photo1631704498.webp?v=1-0
+17:56:43	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/06/166-photo1631686988.webp?v=1-0
+17:56:43	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/05/165-photo1631476638.webp?v=1-0
+17:56:43	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/04/164-339D59EA-28FB-4C76-BDB0-45EDA6525DFD.webp?v=1-0
+17:56:43	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/03/163-82386D80-61D7-491F-8A27-0A11674AA1F5.webp?v=1-0
+17:56:43	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/01/161-photo1631081253 (1).webp?v=1-0
+17:56:43	Warning: 	File not parsed, looks like binary: https://metahero.io/uploads/media/800x/00/160-photo1630952369.webp?v=1-0
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 12 seconds : 671 links scanned, 654 files written (250555516 bytes overall) [242806471 bytes received at 652705 bytes/sec], 11935269 bytes transferred using HTTP compression in 254 files, ratio 28%, 25.3 requests per connection
+(16 errors, 121 warnings, 0 messages)
